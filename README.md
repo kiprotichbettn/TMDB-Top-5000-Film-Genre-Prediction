@@ -1,4 +1,4 @@
-cat > README.md <<EOF
+README.md 
 # TMDB Top 5000 Film Genre Prediction
 
 Used Python and Scikit-learn to implement classification models to predict the primary genre (`genres_1`) of movies from the TMDB dataset. The workflow includes data cleaning, preprocessing, feature scaling, and model evaluation using both **K-Nearest Neighbors (KNN)** and **Logistic Regression**.
